@@ -1,0 +1,4 @@
+https://www.coursera.org/lecture/packt-advanced-linux-networking-and-security-aix6g/introduction-to-containers-Ieii0
+https://www.coursera.org/lecture/packt-advanced-linux-networking-and-security-aix6g/automating-containers-zxtl4
+https://www.coursera.org/lecture/packt-advanced-linux-networking-and-security-aix6g/automating-hosts-pIGHS
+https://www.coursera.org/lecture/packt-advanced-linux-networking-and-security-aix6g/change-management-with-git-4QGg8
